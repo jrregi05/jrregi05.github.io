@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Jaselle Brower # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  GIS Analyst at ADB Companies, LLC.
   <br><br>
-  Second description 
+  Current Graduate Student at the University of Oklahoma, M.S. Geospatial Technologies
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Graduated from the University of Texas at San Antonio, B.A. Geography, Summa Cum Laude 
+  <br><br>
+  <a href="https://www.linkedin.com/in/jaselle-brower-12b14115b">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
