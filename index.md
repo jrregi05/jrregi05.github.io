@@ -16,8 +16,8 @@
 <img src="images/Main_ex.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Socioeconomic Influences of Health Care Discrepancy in the Rio Grande Valley](/pdf/sec rgv working file.R)
+<img src="images/Reginaldo_Jaselle_Proj1024_1?raw=true"/>
 
 ---
 
