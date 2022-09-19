@@ -17,7 +17,7 @@
 
 ---
 [Socioeconomic Influences of Health Care Discrepancy in the Rio Grande Valley](/pdf/sec rgv working file.R)
-<img src="images/Reginaldo_Jaselle_Proj1024_1?raw=true"/>
+<img src="images/Reginaldo_Jaselle_Proj1024_1.jpg?raw=true"/>
 
 ---
 
