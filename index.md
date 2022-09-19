@@ -9,9 +9,11 @@
 
 ---
 [Residential Choices based on Proximity and Income Module](/pdf/regi0011_module.py)
+<img src="images/Module_ex.png?raw=true"/>
 
 ---
 [Residential Choices based on Proximity and Income Main File](/pdf/regi0011_main.py)
+<img src="images/Main_ex.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
