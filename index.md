@@ -5,7 +5,7 @@
 ### Current Projects
 
 [Socioeconomic Influes of Health Care Coverage in the Rio Grande Valley](/sample_page)
-<img src="images/Final Project Maps1024_1.jpeg?raw=true"/>
+<img src="images/Final Project Maps1024_1.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
