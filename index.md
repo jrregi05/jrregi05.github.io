@@ -30,7 +30,7 @@
 
 ### Graduate Projects
 
-- [Residential Areas for Families based on Proximity and Income Requirements]<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
