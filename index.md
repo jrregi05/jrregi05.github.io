@@ -8,8 +8,8 @@
 <img src="images/Final Project Maps1024_1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Residential Choices based on Proximity and Income Module](/residentialproject/regi0011_module.py)
+[Residential Choices based on Proximity and Income Main File](/residentialproject/regi0011_main.py)
 
 ---
 [Project 3 Title](http://example.com/)
