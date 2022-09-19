@@ -6,12 +6,6 @@
 
 [Socioeconomic Influes of Health Care Coverage in the Rio Grande Valley](/sample_page)
 <img src="images/Final Project Maps1024_1.jpeg?raw=true"/>
-<img src="images/Final_Project_Maps1024_2.jpeg?raw=true"/>
-<img src="images/Final_Project_Maps1024_3.jpeg?raw=true"/>
-<img src="images/Final_Project_Maps1024_4.jpeg?raw=true"/>
-<img src="images/Final_Project_Maps1024_5.jpeg?raw=true"/>
-<img src="images/Final_Project_Maps1024_6.jpeg?raw=true"/>
-<img src="images/Final_Project_Maps1024_7.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
