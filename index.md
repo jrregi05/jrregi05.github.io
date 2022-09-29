@@ -21,8 +21,9 @@
 
 ---
 
-[![Bexar County Race and Development Assessment](images/GIS_website.png)]
-(https://uok.maps.arcgis.com/apps/instant/basic/index.html?appid=b57d9850ffa14380b583df0ef665000f)
+[![Bexar County Race and Development Assessment](images/GIS_website.png)](https://uok.maps.arcgis.com/apps/instant/basic/index.html?appid=b57d9850ffa14380b583df0ef665000f)
+
+---
 
 ### Other Projects
 
