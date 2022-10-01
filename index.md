@@ -25,7 +25,7 @@
 
 ---
 
-[![Oklahoma City Metro Area School Selections](images/)](https://arcg.is/0CHTer0](https://uok.maps.arcgis.com/apps/instant/basic/index.html?appid=b6f1f11074a040acb45ac4e60b903c47)
+[![Oklahoma City Metro Area School Selections](images/GIS_website_OKC.png)](https://arcg.is/0CHTer0](https://uok.maps.arcgis.com/apps/instant/basic/index.html?appid=b6f1f11074a040acb45ac4e60b903c47)
 
 ### Other Projects
 
