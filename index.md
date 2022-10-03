@@ -31,7 +31,7 @@
 
 ### Other Projects
 
-- [Google Earth Engine: Burned Area Investigation]([http://example.com/](https://jrregi05.users.earthengine.app/view/burned-area-investigation))
+- [Google Earth Engine: Burned Area Investigation](http://example.com/](https://jrregi05.users.earthengine.app/view/burned-area-investigation)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
